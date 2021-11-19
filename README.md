@@ -24,6 +24,7 @@
 - [Objective](#🎯-objective)
 - [Process Flow](#⏩-process-flow)
 - [Dataset](#📊-dataset)
+- [SMOTE](#🗂️-SMOTE)
 - [Requirements](#💻-requirements)
 - [License](#⚖-license)
 - [Contributors](#👥-contributors)
@@ -43,7 +44,7 @@ To understand what constitutes safe, potable water and distinguish between potab
 
 ## 📊 Dataset
 The [dataset](https://www.kaggle.com/adityakadiwal/water-potability) contains water quality metrics for 3276 different water bodies.
-- ph: pH of 1. water (0 to 14).
+- ph: pH of water (0 to 14).
 - Hardness: Capacity of water to precipitate soap in mg/L.
 - Solids: Total dissolved solids in ppm.
 - Chloramines: Amount of Chloramines in ppm.
